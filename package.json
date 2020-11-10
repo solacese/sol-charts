@@ -1,0 +1,7 @@
+{
+  "name": "sol-charts",
+  "version": "1.0.0",
+  "author": "Thomas Kunnumpurath",
+  "main":"electron.js",
+  "description": "A simple utility to chart stats from the Solace PubSub+ Broker"
+}
